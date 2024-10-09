@@ -1,6 +1,3 @@
-# Remix Craft.js Starter
-
-- Watch intro and architecure video on [YT channel](https://youtu.be/INNjkgE5p0o)
 
 - A simple application to generate code from a drag-drop website builder tool using shadcn-ui components.
 
